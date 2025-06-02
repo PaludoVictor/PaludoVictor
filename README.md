@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Victor Maier Paludo, tenho 17 anos. Estou cursando o Ensino Médio integrado ao técnico em Informática pelo IFSC. Sou apaixonado pelo mundo da tecnologia e estou mergulhando de cabeça na progrmação.
+Me chamo Victor Maier Paludo, tenho 17 anos. Estou cursando o Ensino Médio integrado ao técnico em Informática pelo IFSC. Sou apaixonado pelo mundo da tecnologia e estou mergulhando de cabeça na programação.
 
 ### 🤖 Linguagens e Tecnologias
 
